@@ -37,7 +37,7 @@ Platform: Windows Forms Application (WinForms)
 
 IDE: Visual Studio
 
-Database: ( using SQL Server, SQLite)
+Database: ( using SQL Server, S)
 
 How to Run
 Open the solution file (.sln) in Visual Studio.
