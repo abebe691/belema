@@ -1,6 +1,6 @@
 The Library Management System is a C# desktop application that helps manage a library’s books and borrowing records. It provides intuitive interfaces for handling book inventory and tracking the borrowing/returning of books.
 
-💡 Features
+Features
 **
 🔐 Login
 Username: admin
@@ -10,25 +10,25 @@ Password: 1234
 🖥️ Main Window
 Book Management
 
-➕ Add Book
+ Add Book
 
-🗑️ Delete Book
+ Delete Book
 
-👁️ View Books
+ View Books
 
-✏️ Edit Book
+Edit Book
 
 Borrow Management
 
-➕ Add Borrow
+Add Borrow
 
-🔁 Return Book
+ Return Book
 
-📄 Issue Book
+ Issue Book
 
-👁️ View Borrowed Books
+ View Borrowed Books
 
-⚙️ Technology Stack
+ Technology Stack
 Language: C#
 
 Platform: Windows Forms Application (WinForms)
@@ -37,7 +37,7 @@ IDE: Visual Studio
 
 Database: ( using SQL Server, SQLite)
 
-🚀 How to Run
+How to Run
 Open the solution file (.sln) in Visual Studio.
 
 Build the project to restore dependencies.
