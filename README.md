@@ -1,0 +1,1 @@
+The Library Management System is a user-friendly application that helps libraries manage books, users, and lending activities efficiently. It provides essential features like book tracking, user registration, and book lending management.
